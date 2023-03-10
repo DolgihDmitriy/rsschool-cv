@@ -49,3 +49,18 @@ Frankly speaking I would like to become frontend-developer.I may undoubtedly con
   return mas.join('');
 }
  ```
+
+ ---
+
+ ## **Education**
+  * **Belarusian State University of Informatics and RadioElectronics**
+      + Informatics and Technology of Programming, Computer Science
+  * **Courses**
+      + [HtmlAcademy](https://htmlacademy.ru/study)
+      + RS Schools Course <<JavaScript/Front-end.Stage 1>> (in progress)
+
+---
+
+## __Languages__
+ * Russian (Native)
+ * English: B1 (I wrote centralized testing on 84 points last year).
