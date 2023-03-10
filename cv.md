@@ -32,8 +32,8 @@ Frankly speaking I would like to become frontend-developer.I may undoubtedly con
 
  ---
 
- ## __Code Example__
- **Duplicate Encoder kata from Codewars:** *The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.*
+ ## Code Example
+ __Duplicate Encoder kata from Codewars:__ *The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.*
 
  ```
  function duplicateEncode(word){
@@ -52,7 +52,7 @@ Frankly speaking I would like to become frontend-developer.I may undoubtedly con
 
  ---
 
- ## **Education**
+ ## __Education__
   * **Belarusian State University of Informatics and RadioElectronics**
       + Informatics and Technology of Programming, Computer Science
   * **Courses**
